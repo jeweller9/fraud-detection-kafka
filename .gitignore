@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.DS_Store
+fraud_detector/train_data/*.csv
